@@ -50,5 +50,10 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nickchervov&theme=default" alt="GitHub stats" />
       </picture>
     </td>
+     <td valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=nickchervov&count_weight=1&size_weight=0&hide=Dockerfile,HTML,CSS,Shell,TSQL&theme=github_dark" />
+        <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=nickchervov&count_weight=1&size_weight=0&hide=Dockerfile,HTML,CSS,Shell,TSQL&theme=default" alt="Most used languages" />
+      </picture>
   </tr>
 </table>
