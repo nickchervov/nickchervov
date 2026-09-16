@@ -2,7 +2,7 @@
 
 **Junior Go Developer · Backend & APIs**
 
-Пишу REST API на Go, работаю с PostgreSQL,Sqlite, Redis и Docker. Строгая типизация, конкурентность,чистая архитектура, а также интересные задачи — то, за что выбрал backend. Ищу позицию Junior Go Developer (full-time).
+Пишу REST API на Go, работаю с PostgreSQL, Sqlite, Redis и Docker. Строгая типизация, конкурентность, чистая архитектура, а также интересные задачи — то, за что выбрал backend. Ищу позицию Junior Go Developer (full-time).
 
 ---
 
@@ -48,8 +48,8 @@
     </td>
     <td valign="top" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=nickchervov&exclude_repo=Diplom-programm,DemExam&theme=github_dark" />
-        <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=nickchervov&exclude_repo=Diplom-programm,DemExam&theme=default" alt="Most used languages" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=nickchervov&count_weight=1&size_weight=0&hide=Dockerfile,HTML,CSS,Shell,TSQL&theme=github_dark" />
+        <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=nickchervov&count_weight=1&size_weight=0&hide=Dockerfile,HTML,CSS,Shell,TSQL&theme=default" alt="Most used languages" />
       </picture>
     </td>
   </tr>
