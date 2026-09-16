@@ -2,10 +2,10 @@
 
 **Junior Go Developer · Backend & APIs**
 
-Пишу REST API на Go, работаю с PostgreSQL, Sqlite, Redis и Docker. 
-Интересные задачи — то, за что выбрал backend.
-Не останавливаюсь на достигнутом и всегда изучаю что-то новое.
-Ищу позицию Junior Go Developer (full-time).
+- Пишу REST API на Go, работаю с PostgreSQL, Sqlite, Redis и Docker.
+- Интересные задачи — то, за что выбрал backend.
+- Не останавливаюсь на достигнутом и всегда изучаю что-то новое.
+- Ищу позицию Junior Go Developer (full-time).
 
 ---
 
