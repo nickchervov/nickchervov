@@ -12,10 +12,6 @@
   <a href="https://t.me/nickchervov" title="Telegram">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="36" alt="Telegram" />
   </a>
-   
-  <a href="mailto:nickchervoff@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" alt="Email" />
-  </a>
 </p>
 
 ---
