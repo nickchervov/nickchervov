@@ -39,16 +39,3 @@
 </p>
 
 ---
-
-### Статистика GitHub
-
-<table>
-  <tr>
-    <td valign="top" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nickchervov&theme=github_dark" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nickchervov&theme=default" alt="GitHub stats" />
-      </picture>
-    </td>
-  </tr>
-</table>
